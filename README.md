@@ -1,6 +1,6 @@
 # Human-Agent Workforce OS
 
-Human-Agent Workforce OS ("Orchestra") is a workspace for routing and governing work across people, AI agents, and hybrid teams. It evaluates each task, recommends an execution route, applies organizational policies, and records approvals, outcomes, and audit activity.
+Human-Agent Workforce OS ("Orchestra"), motivated by AABW hackathon, is a workspace for routing and governing work across people, AI agents, and hybrid teams. It evaluates each task, recommends an execution route, applies organizational policies, and records approvals, outcomes, and audit activity.
 
 ![Orchestra dashboard](examples/d1/dashboard.png)
 
